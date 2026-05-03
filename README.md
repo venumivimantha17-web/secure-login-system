@@ -18,4 +18,3 @@ python login_system.py
 
 
 
-Just say **“next”** when you’re ready.
